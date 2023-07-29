@@ -5,8 +5,8 @@
 
 .card-custom {
   max-height: 500px;
-  min-width: 300px;
-  max-width: auto;
+  min-width: 340px;
+  max-width: 500px;
   border: 2.5px solid #434CE7;
   border-radius: 18px;
 }
@@ -19,9 +19,22 @@
 
 ul li {
     list-style-type: none;
+    padding-left: 0rem;
 }
 
 .feature-list{
-  height: 20px;
+  height: 25px;
   margin: 5px;
+  filter: invert(31%) sepia(63%) saturate(6500%) hue-rotate(234deg) brightness(94%) contrast(92%);
+}
+
+.card-button{
+  margin: 0.5em;
+  height: 50px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  background-color: #434CE7;
 }
