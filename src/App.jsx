@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <h1>Pricing Table Assignment</h1>
       <div class="container custom-container">
         <div class="row g-5">
           <div class="col">
