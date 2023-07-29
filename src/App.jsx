@@ -11,7 +11,7 @@ function App() {
       <div class="container custom-container">
         <div class="row g-5">
           <div class="col">
-            <div tabIndex="1" aria-aria-label='Basic plan card' class="card card-custom">
+            <div tabIndex="1" class="card card-custom">
               <div class="card-body">
                 <h2 class="card-title text-center card-title-custom">$10/mth</h2>
                 <h3 class="card-subtitle mb-2 text-secondary-emphasis text-center fs-4">Basic Plan</h3>
@@ -49,7 +49,7 @@ function App() {
             </div>
           </div>
           <div class="col">
-            <div tabIndex="1" aria-aria-label='Enterprise plan card' class="card card-custom">
+            <div tabIndex="1" class="card card-custom">
               <div class="card-body">
                 <h2 class="card-title text-center card-title-custom">$40/mth</h2>
                 <h3 class="card-subtitle mb-2 text-secondary-emphasis text-center fs-4">Enterprise Plan</h3>
